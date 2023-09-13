@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949368552625",
+    "project_id": "fall-detection-be4f6",
+    "storage_bucket": "fall-detection-be4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949368552625:android:fdcf7fc3beac825905f690",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949368552625-dvhdci7a7p270rosccp5iu71qtvn3ho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKa1ehATHobxYBqS8rNe2qKaNsUo3sbAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949368552625-dvhdci7a7p270rosccp5iu71qtvn3ho0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
